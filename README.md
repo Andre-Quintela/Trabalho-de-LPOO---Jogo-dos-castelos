@@ -7,7 +7,6 @@ Esse trabalho visa a criação de um jogo básico de destruição de castelos. F
 ## 🚀 Tecnologias Utilizadas
 
 - **Java**: Linguagem principal utilizada para o desenvolvimento.
-- 
 ## 🛠️ Como Executar o Projeto
 
 ### Pré-requisitos
