@@ -16,8 +16,7 @@ Certifique-se de que você tenha os seguintes itens instalados:
 
 - **JDK - v12 ou superior*
 
-🤝 Colaboradores
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+🤝 Criador
 
 <table> 
   <tr>
